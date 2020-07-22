@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "825306066193",
+    "firebase_url": "https://urs-core.firebaseio.com",
+    "project_id": "urs-core",
+    "storage_bucket": "urs-core.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825306066193:android:29c0fbde621bc56f2b30b0",
+        "android_client_info": {
+          "package_name": "com.ultrarealsystem.core"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825306066193-ve46qf2c0vh6pdvh4sg8qs8jr2f5m1rv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ultrarealsystem.core",
+            "certificate_hash": "d2cf452a6349e17066a6aadc41cdc67f97ccbf01"
+          }
+        },
+        {
+          "client_id": "825306066193-pn10atojcv9l4lqcs7jv4tolv2nn1q9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfjMW8B-LWvR9L4zxaWpv9396QWonHblA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825306066193-pn10atojcv9l4lqcs7jv4tolv2nn1q9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
